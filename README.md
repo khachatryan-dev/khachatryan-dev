@@ -31,32 +31,26 @@
 
 ### 💼 Work Experience
 
-#### 🟢 **Square Signs Armenia** – *Mid Frontend Developer*  
+#### 🟢 Square Signs Armenia – *Mid Frontend Developer*  
 🗓️ Nov 2022 – Present  
-- Developed and optimized large-scale B2C printing software
-- Enhanced SEO with SSR and React's `hydrate()` API
-- Built internal management tools using React & Fabric.js
-- Refactored legacy codebase for better performance & maintainability
+- Developed and optimized large-scale B2C printing software  
+- Enhanced SEO with SSR and React's `hydrate()` API  
+- Built internal management tools using React & Fabric.js  
+- Refactored legacy codebase for better performance & maintainability  
 
----
-
-#### 🟡 **INTECH Technology** – *Frontend Developer*  
+#### 🟡 INTECH Technology – *Frontend Developer*  
 🗓️ Mar 2021 – Oct 2022  
 - Built real-time online casino UIs using React, WebSockets, and Socket.IO  
 - Optimized live casino performance using Web Worker and Service Worker  
-- Leveraged React hooks for efficient component architecture
+- Leveraged React hooks for efficient component architecture  
 
----
-
-#### 🔵 **IGUAN Systems LLC** – *Frontend Developer*  
+#### 🔵 IGUAN Systems LLC – *Frontend Developer*  
 🗓️ Mar 2019 – Feb 2021  
 - Managed React + Redux-based ecommerce projects  
 - Built an internal purchase automation tool  
-- Integrated PayPal and improved stability using Redux Saga/Thunk
+- Integrated PayPal and improved stability using Redux Saga/Thunk  
 
----
-
-#### 🟣 **VOODOO Programming** – *Junior Frontend Developer*  
+#### 🟣 VOODOO Programming – *Junior Frontend Developer*  
 🗓️ May 2018 – Apr 2019  
 - Converted Adobe XD to responsive HTML/CSS  
 - Built WordPress and PHP-based websites with animations using jQuery  
@@ -75,17 +69,25 @@
 
 ### 🛠️ Skills & Tech Stack
 
-```text
-Languages:        JavaScript, TypeScript, HTML, CSS, PHP
-Frameworks:       React.js, Next.js, Redux, Redux-Saga, React-Redux
-UI Libraries:     Ant Design, Semantic UI, Bootstrap, jQuery
-Canvas Tools:     Fabric.js, Web Workers, Service Workers
-Other Tools:      Git, GitHub, Firebase, MySQL, Photoshop, AJAX, WebSocket
-```
+#### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,jquery,firebase,git,github,php,mysql,vscode,linux" />
-</p>
+#### 🎨 Styling
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+#### 🛠️ Tools & Platforms
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -104,8 +106,8 @@ Other Tools:      Git, GitHub, Firebase, MySQL, Photoshop, AJAX, WebSocket
 
 ### 📬 Contact Me
 
-- 📧 Email: [arkhachat@gmail.com](mailto:arkhachat@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/aramkh](https://www.linkedin.com/in/aramkh/)
+- 📧 Email: [arkhachat@gmail.com](mailto:arkhachat@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/aramkh](https://www.linkedin.com/in/aramkh/)  
 - 📝 Blog: [khachatryan-dev.vercel.app](https://khachatryan-dev.vercel.app)
 
 ---
