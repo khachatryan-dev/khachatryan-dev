@@ -92,12 +92,12 @@ Other Tools:      Git, GitHub, Firebase, MySQL, Photoshop, AJAX, WebSocket
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aramkh&show_icons=true&theme=react" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aramkh&theme=react" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khachatryan-dev&show_icons=true&theme=react" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khachatryan-dev&theme=react" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aramkh&layout=compact&theme=react" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khachatryan-dev&layout=compact&theme=react" width="60%" />
 </p>
 
 ---
