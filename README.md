@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aram Khachatryan</h1>
-<h3 align="center">A passionate Frontend Developer | React Enthusiast | Blogger at <a href="[https://khachatryan.dev](https://khachatryan-dev.vercel.app/)">khachatryan-dev.vercel.app</a></h3>
+<h3 align="center">A passionate Frontend Developer | React Enthusiast | Blogger at <a href="https://khachatryan-dev.vercel.app/">khachatryan-dev.vercel.app</a></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aramkh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="[https://khachatryan.dev](https://khachatryan-dev.vercel.app/)" target="_blank">
+  <a href="https://khachatryan-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-khachatryan.dev-brightgreen?style=flat-square&logo=dev.to" />
   </a>
 </p>
@@ -23,9 +23,9 @@
 
 - 🔭 Mid Frontend Developer @ **Square Signs Armenia**
 - 🧠 6+ years of experience in React, TypeScript, Canvas, Fabric.js, and real-time UIs
-- ✍️ I write blogs about JavaScript, React, Firebase, RxJS and more at [khachatryan.dev](https://khachatryan.dev)
+- ✍️ I write blogs about JavaScript, React, Firebase, RxJS and more at [khachatryan-dev.vercel.app](https://khachatryan-dev.vercel.app/)
 - 📍 Based in Yerevan, Armenia
-- 🌱 Currently learning: **RxJS**, **WebAssembly**, and browser internals
+- 🌱 Currently learning: **RxJS**, **Angular**, and browser internals
 
 ---
 
@@ -106,17 +106,7 @@ Other Tools:      Git, GitHub, Firebase, MySQL, Photoshop, AJAX, WebSocket
 
 - 📧 Email: [arkhachat@gmail.com](mailto:arkhachat@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/aramkh](https://www.linkedin.com/in/aramkh/)
-- 📝 Blog: [khachatryan.dev](https://khachatryan.dev)
-
----
-
-### 📽️ Just for Fun (GIF Zone)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOHn2Ls1KKHnW/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/26u4b45b8KlgAB7iM/giphy.gif" width="200" />
-</p>
+- 📝 Blog: [khachatryan-dev.vercel.app](https://khachatryan-dev.vercel.app)
 
 ---
 
