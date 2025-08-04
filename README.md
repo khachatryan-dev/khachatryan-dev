@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aram Khachatryan</h1>
-<h3 align="center">A passionate Frontend Developer | React Enthusiast | Blogger at <a href="https://khachatryan.dev">khachatryan-dev.vercel.app</a></h3>
+<h3 align="center">A passionate Frontend Developer | React Enthusiast | Blogger at <a href="[https://khachatryan.dev](https://khachatryan-dev.vercel.app/)">khachatryan-dev.vercel.app</a></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aramkh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://khachatryan.dev" target="_blank">
+  <a href="[https://khachatryan.dev](https://khachatryan-dev.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Blog-khachatryan.dev-brightgreen?style=flat-square&logo=dev.to" />
   </a>
 </p>
