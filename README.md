@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/aramkh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://khachatryan-dev.vercel.app/" target="_blank">
+  <a href="https://khachatryan-dev.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Blog-khachatryan.dev-brightgreen?style=flat-square&logo=dev.to" />
   </a>
 </p>
@@ -94,12 +94,13 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khachatryan-dev&show_icons=true&theme=react" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khachatryan-dev&theme=react" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khachatryan-dev&show_icons=true&theme=react" width="100%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=khachatryan-dev&theme=react" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khachatryan-dev&layout=compact&theme=react" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khachatryan-dev&layout=compact&theme=react" width="100%" />
 </p>
 
 ---
