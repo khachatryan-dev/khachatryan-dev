@@ -1,10 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 <h1 align="center">Hi 👋, I'm Aram Khachatryan</h1>
 <h3 align="center">A passionate Frontend Developer | React Enthusiast | Blogger at <a href="https://khachatryan-dev.vercel.app/">khachatryan-dev.vercel.app</a></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khachatryan-dev/snake-contributions/output/github-contribution-grid-snake.svg?time=123" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khachatryan-dev/snake-contributions/output/github-contribution-grid-snake.svg?time=123" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/khachatryan-dev/snake-contributions/output/github-contribution-grid-snake.svg?time=123" />
+</picture>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" />
